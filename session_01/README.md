@@ -1,19 +1,19 @@
 # Session 1 - Introduction to Web Development
 
 ## Goals
--introduction to HTML
+- introduction to HTML
 	- what is HTML
 	- HTMLstructure
 	- HTML Tags
   	- HTML Attributes
--introduction to css
+- introduction to css
  	- syntax
   	- How to insert a style sheet
--web application
+- web application
 	- web Application structure
--what does react do?
--reactjs.org
--Git
+- what does react do?
+- reactjs.org
+- Git
 	- what is a version control
 	- how to make a repository
 	- clone, push, pull, commit, pull request
