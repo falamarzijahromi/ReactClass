@@ -1,9 +1,0 @@
-what you'll learn in session one:
-1)untroduction to html
-	* what is html
-	* html structure
-2)untroduction to css
-3)web application
-4)what does react do?
-5)reactjs.org
-6)Git
