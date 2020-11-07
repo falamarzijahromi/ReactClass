@@ -9,6 +9,9 @@
 - introduction to css
  	- syntax
   	- How to insert a style sheet
+	- position
+	- flexBox
+	- media query
 - web application
 	- web Application structure
 - what does react do?
@@ -26,4 +29,5 @@
 - [github](https://github.com)
 
 ## Exercises
+- what is a pseudo class
 - Design a login page
