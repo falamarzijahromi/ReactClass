@@ -17,10 +17,13 @@
 	* what is a version control
 	* how to make a repository
 	* clone, push, pull, commit, pull request
+	* download Git
 
 ## Useful linkes
 - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
 - [Reactjs](https://reactjs.org)
+- [downLoad git](https://git-scm.com/downloads)
+- [github](https://github.com)
 
 ## Exercises
 - Design a login page
