@@ -1,31 +1,26 @@
 # Session 1 - Introduction to Web Development
 
 ## Goals
-* Familiar with HTML
-
-## Topics
-
-* HTML Tags
-  * Review of useful HTML tags:
-     * `<html>`
-     * `<head>`
-     * `<title>`
-     * `<body>`
-     * `<p>`
-     * `<div>`
-     * `<span>`
-     * `<img>`
-     * `<table>`
-     * `<ol>`
-     * `<ul>`
-     * `<hr>`
-     * `<br>`
-  * HTML Attributes
-    * style
-    * src
-    * href
-    * width
-    * height
+1)introduction to HTML
+	* what is HTML
+	* HTMLstructure
+	* HTML Tags
+  	* HTML Attributes
+2)introduction to css
+ 	* syntax
+  	* How to insert a style sheet
+3)web application
+	* web Application structure
+4)what does react do?
+5)reactjs.org
+6)Git
+	* what is a version control
+	* how to make a repository
+	* clone, push, pull, commit, pull request
 
 ## Useful linkes
 - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
+- [Reactjs](https://reactjs.org)
+
+## Exercises
+- Design a login page
