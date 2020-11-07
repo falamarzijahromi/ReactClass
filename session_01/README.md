@@ -14,6 +14,7 @@
 	- media query
 - web application
 	- web Application structure
+	- Single-Page Applications (SPAs)
 - what does react do?
 - reactjs.org
 - Git
@@ -30,4 +31,6 @@
 
 ## Exercises
 - what is a pseudo class
-- Design a login page
+- Design a login page and make it responsive
+- what is a memory leak?
+- what is SaaS?
